@@ -1,0 +1,72 @@
+D:\_PROJECTS\_HS\HealthPortal\TestProject\bin\Debug\CafeProject.exe.config
+D:\_PROJECTS\_HS\HealthPortal\TestProject\bin\Debug\CafeProject.exe
+D:\_PROJECTS\_HS\HealthPortal\TestProject\bin\Debug\CafeProject.pdb
+D:\_PROJECTS\_HS\HealthPortal\TestProject\bin\Debug\Newtonsoft.Json.dll
+D:\_PROJECTS\_HS\HealthPortal\TestProject\bin\Debug\Newtonsoft.Json.pdb
+D:\_PROJECTS\_HS\HealthPortal\TestProject\bin\Debug\Newtonsoft.Json.xml
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.LoginForm.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.RecieptForm.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.RegisterForm.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.WaiterForm.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.KitchenForm.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.OrderForm.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.ItemQuantity.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.Properties.Resources.resources
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.csproj.CopyComplete
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.exe
+D:\_PROJECTS\_HS\HealthPortal\TestProject\obj\Debug\CafeProject.pdb
+D:\_DUNDAR\Desktop\CafeProject\bin\Debug\CafeProject.exe.config
+D:\_DUNDAR\Desktop\CafeProject\bin\Debug\CafeProject.exe
+D:\_DUNDAR\Desktop\CafeProject\bin\Debug\CafeProject.pdb
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.LoginForm.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.RecieptForm.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.RegisterForm.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.WaiterForm.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.KitchenForm.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.OrderForm.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.ItemQuantity.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.cache
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.csproj.CoreCompileInputs.cache
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.csproj.CopyComplete
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.exe
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.pdb
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.SplashScreen.resources
+D:\_DUNDAR\Desktop\CafeProject\obj\Debug\CafeProject.csprojAssemblyReference.cache
+C:\Users\ah_su\Desktop\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\ah_su\Desktop\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\ah_su\Desktop\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.LoginForm.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.RecieptForm.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.RegisterForm.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.SplashScreen.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.WaiterForm.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.KitchenForm.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.OrderForm.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.ItemQuantity.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\ah_su\Desktop\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\bin\Debug\CafeProject.exe.config
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.exe
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.pdb
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\bin\Debug\CafeProject.exe
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\bin\Debug\CafeProject.pdb
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.csprojResolveAssemblyReference.cache
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.LoginForm.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.RecieptForm.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.RegisterForm.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.SplashScreen.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.WaiterForm.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.KitchenForm.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.OrderForm.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.ItemQuantity.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.Properties.Resources.resources
+C:\Users\ah_su\Desktop\tarayıcı önemli belge\AZURE ACTIVITY\CafeProject\obj\Debug\CafeProject.csproj.GenerateResource.Cache
+C:\Users\ah_su\Desktop\Cafe\bin\Debug\CafeProject.exe.config
+C:\Users\ah_su\Desktop\Cafe\obj\Debug\CafeProject.exe
+C:\Users\ah_su\Desktop\Cafe\obj\Debug\CafeProject.pdb

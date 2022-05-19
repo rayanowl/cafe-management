@@ -1,0 +1,23 @@
+﻿[
+  {
+    "EmployeeID": 10000,
+    "EmployeeType": "Waiter",
+    "Name": "Suay Akbudak",
+    "Username": "waiter1",
+    "Password": "123456"
+  },
+  {
+    "EmployeeID": 10001,
+    "EmployeeType": "Register",
+    "Name": "Suay Akbudak 2",
+    "Username": "register1",
+    "Password": "123456"
+  },
+  {
+    "EmployeeID": 10002,
+    "EmployeeType": "Kitchen",
+    "Name": "Suay Akbudak 3",
+    "Username": "kitchen1",
+    "Password": "123456"
+  }
+]

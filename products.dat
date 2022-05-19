@@ -1,0 +1,23 @@
+﻿[
+  {
+    "ProductID": 10000,
+    "Category": "İçecekler",
+    "Name": "Portal Suyu",
+    "Price": 9.00,
+    "Image": "portakal.jpg",
+  },
+  {
+    "ProductID": 10001,
+    "Category": "İçecekler",
+    "Name": "White Mocha",
+    "Price": 16.99,
+    "Image": "mocha.jpg",
+  },
+  {
+    "ProductID": 10002,
+    "Category": "Sandviçler",
+    "Name": "Peynirli Sandviç",
+    "Price": 22.99,
+    "Image": "sandvic.jpg",
+  }
+]
